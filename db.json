@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "123456"
+    },
+    {
+      "id": 1,
+      "email": "aaa@bbb.com",
+      "password": "123123",
+      "confirmPassword": "123123"
+    },
+    {
+      "id": 0.45391393654644396,
+      "email": "bbb@ccc.com",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": 2,
+      "email": "fsdfs@liv.cv",
+      "password": "aaa",
+      "confirmPassword": "aaa"
+    },
+    {
+      "id": 0.7566045688633736,
+      "email": "fsdfs@liv.cv",
+      "password": "111",
+      "confirmPassword": "111"
+    },
+    {
+      "id": 0.41630125365905446,
+      "email": "fsdfs@liv.cv",
+      "password": "aaaaaa",
+      "confirmPassword": "aaaaaa"
+    }
+  ],
+  "productions": [
+    {
+      "id": 1,
+      "name": "薯角培根薄脆比萨",
+      "description": "不足3毫米薄度的纤薄又酥脆饼底，搭配大虾，鱿鱼，章鱼等丰富海鲜美味荟萃，配上酸甜菠萝和青椒，海鲜美味扑面而来。主要原料：面饼，芝士，虾，鱿鱼，章鱼，蟹柳块，青椒，菠萝",
+      "options": [
+        {
+          "size": 9,
+          "price": 38
+        },
+        {
+          "size": 12,
+          "price": 48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "北京潮鸭薄脆比萨",
+      "description": "不足3毫米薄度的纤薄又酥脆饼底，搭配鲜香培根、外脆内绵的薯角、风味浓郁的鸡蛋沙拉和香浓芝士。主要原料：面饼，鸡蛋沙拉酱，芝士，薯角，培根",
+      "options": [
+        {
+          "size": 9,
+          "price": 38
+        },
+        {
+          "size": 12,
+          "price": 48
+        }
+      ]
+    },
+    {
+      "id": 0.13038104757279156,
+      "name": "海鲜满溢薄脆比萨",
+      "description": "不足3毫米薄度的纤薄又酥脆饼底，搭配大虾，鱿鱼，章鱼等丰富海鲜美味荟萃，配上酸甜菠萝和青椒，海鲜美味扑面而来。主要原料：面饼，芝士，虾，鱿鱼，章鱼，蟹柳块，青椒，菠萝",
+      "options": [
+        {
+          "size": "9",
+          "price": "48"
+        },
+        {
+          "size": "12",
+          "price": "68"
+        }
+      ]
+    }
+  ]
+}
